@@ -1,1 +1,7 @@
-package Test
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Tested")
+}
